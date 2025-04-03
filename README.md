@@ -31,4 +31,5 @@ This prank uses a combination of Python and batch scripting to silently play cre
 To install the required Python library (`pyttsx3`), run:
 
 ```bash
-pip install pyttsx3
+$ pip install pyttsx3
+```
